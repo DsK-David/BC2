@@ -1,0 +1,36 @@
+body {
+    font-size: 20pt;
+    background: black;
+    color:white;
+    text-align: center;
+}
+/*tudo*/
+.tudo{
+        left: 50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        position: absolute;
+}
+/*inputs,botão*/
+input{
+        font-size:20pt;
+        padding:6px 0;
+    width: 90px;
+    height: 60px;
+    background: none;
+    color:green;
+    border:black;
+    
+}
+/*input resultado*/
+.res{
+        color:white;
+        width: 380px;
+        height:20px;
+        background: black;
+}
+img{
+        
+        height: 90px;
+        text-align: center;
+}
